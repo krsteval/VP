@@ -52,7 +52,7 @@ http://www.onlytypinggames.com/games/b_speed_typer/
 
 
 Доколку ги изгубиме сите 3 животи играта запира и се отвора формата прикажана на следната слика.
-![moj zbor](http://i.imgur.com/WYdiFaz.jpg?3)
+![moj zbor](http://i.imgur.com/hM2pUoH.jpg?1)
 
 
 
