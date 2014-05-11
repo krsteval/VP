@@ -11,8 +11,7 @@ http://www.onlytypinggames.com/games/b_speed_typer/
 
 Упатство за користење:
 
-![Alt text](file:///C:/Users/krste/Downloads/Info%20za%20igrata%20-%20Shoot%20the%20words/Info%20za%20igrata%20-%20Shoot%20the%20words/Slika_01.jpg?raw=true "Optional Title")
-
+![moj zbor](http://i.imgur.com/0Am6Ddp.png)
 
 
 
