@@ -11,7 +11,7 @@ http://www.onlytypinggames.com/games/b_speed_typer/
 
 Упатство за користење:
                        
-                    ![moj zbor](http://i.imgur.com/Kp7qUwk.jpg?1)
+                       ![moj zbor](http://i.imgur.com/Kp7qUwk.jpg?1)
 
 
 
