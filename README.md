@@ -87,3 +87,5 @@ http://www.onlytypinggames.com/games/b_speed_typer/
 Изработиле:
 Дарко Јаневиќ - 112042
 Крсте Москов - 112066
+
+За сите оние кои сакаат да ја тестираат играта, а не поседуваат Visual Studio, на следниот линк може да ја преземат: https://www.dropbox.com/sh/vz3rzqh5m9w20i7/AABr_t9DOjPfMiTiXKyJq1NGa
