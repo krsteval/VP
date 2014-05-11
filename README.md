@@ -43,7 +43,7 @@ http://www.onlytypinggames.com/games/b_speed_typer/
 Десно од полето за внес на зборовите е копчето за звук на кое јасно се покажува кога има а кога нема звук.
 Со клик на копчето space кога текст полето е празно играта се паузира. Истата може да се продолжи со кликање било каде на формата.
      
-  ![moj zbor](http://i.imgur.com/qZXA13x.jpg?1)
+  ![moj zbor](http://i.imgur.com/qZXA13x.jpg?3)
 
 
 
@@ -53,7 +53,7 @@ http://www.onlytypinggames.com/games/b_speed_typer/
 
 
 Доколку ги изгубиме сите 3 животи играта запира и се отвора формата прикажана на следната слика.
-![moj zbor](http://i.imgur.com/qZXA13x.jpg?3)
+![moj zbor](http://i.imgur.com/hM2pUoH.jpg?1)
 
 
 
@@ -63,7 +63,7 @@ http://www.onlytypinggames.com/games/b_speed_typer/
 
 На оваа форма го внесуваме нашето име и со клик на копчето Save score ги зачувуваме во база прикажаните поени. Доколку сакаме да ја видиме целосната листа на играчи и нивните поени ке мора да кликнеме на копчето Try again и да кликнеме на копчето View high score по што на местото на описот на играта ке се појави listBox со имињата на играчите и нивните поени сортирани според поените како на следната слика.
       
-      ![moj zbor](http://i.imgur.com/vBx7SNa.jpg?2)
+![moj zbor](http://i.imgur.com/vBx7SNa.jpg?2)
 
 
 
